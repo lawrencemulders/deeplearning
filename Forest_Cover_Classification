@@ -458,5 +458,4 @@ Cottonwood/Willow       0.84      0.80      0.82       549
          accuracy                           0.91    116203
         macro avg       0.88      0.86      0.87    116203
      weighted avg       0.91      0.91      0.91    116203
-
-![Alt text](/Users/lawrencemulders/PycharmProjects/deeplearning_forest_cover_classification/Output_graph.png)
+     
